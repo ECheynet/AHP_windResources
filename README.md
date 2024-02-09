@@ -4,7 +4,7 @@ Multicriteria decision analysis for wind resource assessment and environmental i
 
 # Summary
 
-This repository contains MATLAB code and data files for implementing a Multicriteria Decision Analysis (MCDA) approach to assess wind resource potential and environmental impact, focusing on offshore wind energy planning in the Norwegian Exclusive Economic Zone (EEZ). The code utilizes the Analytic Hierarchy Process (AHP) to integrate various criteria and subcriteria. The code is used for education and research purpose.
+This repository contains MATLAB code and data files for implementing a Multicriteria Decision Analysis (MCDA) approach to assess wind resource potential and environmental impact, focusing on offshore wind energy planning in the Norwegian Exclusive Economic Zone (EEZ). The code utilizes the Analytic Hierarchy Process (AHP) to integrate various criteria and subcriteria. The code is used for education and research purpose. The code is inspired by the study from Solbrekke and Sorteberg (2024). However, their implementation of the AHP is likely different from mine.
 
 # Content
 
